@@ -1,4 +1,303 @@
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD Link
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc137-serie@1/master.m3u8
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD Link
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc137-serie@1/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MAKKAH TV LIVE 
+https://nayatvfe1.nayatel.com:3030/livesports/channel01hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PEACE TV URDU
+https://nayatvfe1.nayatel.com:3030/livesports/channel02sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel03sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SAMAA NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel04sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DUNNYA NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel05hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EXPRESS NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel07sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 92 NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel08hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CAPITAL NEWS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel09sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV NATIONAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel10sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BBC NEWS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel12sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EURO NEWS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel13hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV SPORTS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel16hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO SUPER
+https://nayatvfe1.nayatel.com:3030/livesports/channel17hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", A SPORTS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel18hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS
+https://nayatvfe1.nayatel.com:3030/livesports/channel19hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel20hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 5
+https://nayatvfe1.nayatel.com:3030/livesports/channel21hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM MASLA 
+https://nayatvfe1.nayatel.com:3030/livesports/channel22sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NMX KIDS
+https://nayatvfe1.nayatel.com:3030/livesports/channel23hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BABY TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel24hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 25
+https://nayatvfe1.nayatel.com:3030/livesports/channel25sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CNN 
+https://nayatvfe1.nayatel.com:3030/livesports/channel26sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CARTOON NETWORK 
+https://nayatvfe1.nayatel.com:3030/livesports/channel27sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NAT GEO WILD
+https://nayatvfe1.nayatel.com:3030/livesports/channel28hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TRT WORLD 
+https://nayatvfe1.nayatel.com:3030/livesports/channel29hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 365 NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel30hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY MUSIC
+https://nayatvfe1.nayatel.com:3030/livesports/channel31sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 8XM
+https://nayatvfe1.nayatel.com:3030/livesports/channel32sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", JALWA
+https://nayatvfe1.nayatel.com:3030/livesports/channel33sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV HOME
+https://nayatvfe1.nayatel.com:3030/livesports/channel34hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BOL ENTERTAINMENT
+https://nayatvfe1.nayatel.com:3030/livesports/channel35hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM TV HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel36hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM SITARAY
+https://nayatvfe1.nayatel.com:3030/livesports/channel37sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY DIGITAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel38hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY ZINDAGI
+https://nayatvfe1.nayatel.com:3030/livesports/channel39sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO TV HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel40hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO KAHANI
+https://nayatvfe1.nayatel.com:3030/livesports/channel41sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EXPRESS ENTERTAINMENT
+https://nayatvfe1.nayatel.com:3030/livesports/channel43sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NMX HD1
+https://nayatvfe1.nayatel.com:3030/livesports/channel44hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NMX HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel45hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN MOVIES 1 PREMIER 
+https://nayatvfe1.nayatel.com:3030/livesports/channel46hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 47
+https://nayatvfe1.nayatel.com:3030/livesports/channel47hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AXN
+https://nayatvfe1.nayatel.com:3030/livesports/channel48hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DW
+https://nayatvfe1.nayatel.com:3030/livesports/channel49hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SUPER SPORTS RUGBY
+https://nayatvfe1.nayatel.com:3030/livesports/channel50hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS TENNIS
+https://nayatvfe1.nayatel.com:3030/livesports/channel51hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS ACTION
+https://nayatvfe1.nayatel.com:3030/livesports/channel52hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EUROSPORTS 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel53hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", EUROSPORTS 2
+https://nayatvfe1.nayatel.com:3030/livesports/channel54hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NATIONAL GEORAPHIC
+https://nayatvfe1.nayatel.com:3030/livesports/channel55hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BBC LIFESTYLE
+https://nayatvfe1.nayatel.com:3030/livesports/channel56hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HISTORY
+https://nayatvfe1.nayatel.com:3030/livesports/channel57hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TRAVEL CHANNEL 
+https://nayatvfe1.nayatel.com:3030/livesports/channel58hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FX
+https://nayatvfe1.nayatel.com:3030/livesports/channel60hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CC HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel61hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NEO NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel62hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SUCH NEWS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel63hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CGTN 
+https://nayatvfe1.nayatel.com:3030/livesports/channel64hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", S ZONE KIDS
+https://nayatvfe1.nayatel.com:3030/livesports/channel65hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CGTN DOCUMENTARY
+https://nayatvfe1.nayatel.com:3030/livesports/channel66hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DAWN NEWS 
+https://nayatvfe1.nayatel.com:3030/livesports/channel67sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AJJ NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel68sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PAKISTAN TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel69sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FILMAX
+https://nayatvfe1.nayatel.com:3030/livesports/channel71sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DISCOVER PAKISTAN
+https://nayatvfe1.nayatel.com:3030/livesports/channel72hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ABB TAK
+https://nayatvfe1.nayatel.com:3030/livesports/channel74sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GEO TEZ
+https://nayatvfe1.nayatel.com:3030/livesports/channel75hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ATV
+https://nayatvfe1.nayatel.com:3030/livesports/channel77sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", A PLUS
+https://nayatvfe1.nayatel.com:3030/livesports/channel78sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TV ONE
+https://nayatvfe1.nayatel.com:3030/livesports/channel79sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AJJ ENTERTAINMENT HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel80sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AJJ ENTERTAINMENT HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel81hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PRESS TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel82hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", A1 TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel83sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ANPA CHANNEL
+https://nayatvfe1.nayatel.com:3030/livesports/channel84sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GTV NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel87hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AVT KHYBER
+https://nayatvfe1.nayatel.com:3030/livesports/channel89hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PASHTO 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel90sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SEE TV HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel91sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NHK WORLD 
+https://nayatvfe1.nayatel.com:3030/livesports/channel92hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel93hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FRANCE 24
+https://nayatvfe1.nayatel.com:3030/livesports/channel94hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WASEEB TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel95sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SINDH TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel96sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AWAZ HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel97hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MEHRAN TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel98sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PTV NEWS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel99hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUM NEWS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel100hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 24 NEWS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel101hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BEIN SPORTS 7
+https://nayatvfe1.nayatel.com:3030/livesports/channel102hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BOL NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel103hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CNBC
+https://nayatvfe1.nayatel.com:3030/livesports/channel104hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", C42 NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel105hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FAST SPORTS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SUNO NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel107hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AAN HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel108hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MADINA TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel109hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GNN NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel110hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", KTN NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel111hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MASHRIQ NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel113hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HADI TV 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel114hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ALARABIYA NEWA
+https://nayatvfe1.nayatel.com:3030/livesports/channel115hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ARY QTV
+https://nayatvfe1.nayatel.com:3030/livesports/channel116hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MADNI TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel117hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SKY SPORTS GOLF
+https://nayatvfe1.nayatel.com:3030/livesports/channel118hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WWE
+https://nayatvfe1.nayatel.com:3030/livesports/channel119hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FOOD CHANNEL 
+https://nayatvfe1.nayatel.com:3030/livesports/channel120hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BBC CBEEBIES
+https://nayatvfe1.nayatel.com:3030/livesports/channel121hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MINIKA COCUK
+https://nayatvfe1.nayatel.com:3030/livesports/channel122hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NICK JR
+https://nayatvfe1.nayatel.com:3030/livesports/channel123hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BBC BRIT
+https://nayatvfe1.nayatel.com:3030/livesports/channel124hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", NAT GEO PEOPLE 
+https://nayatvfe1.nayatel.com:3030/livesports/channel125hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DISCOVERY SCIENCE HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel126hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", M SPORTS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel127hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ANIMALS PLANET
+https://nayatvfe1.nayatel.com:3030/livesports/channel128hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WARNER BRO DISCOVERY
+https://nayatvfe1.nayatel.com:3030/livesports/channel129hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AUR LIFE HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel130hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", LTN FAMILY HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel131hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", K2
+https://nayatvfe1.nayatel.com:3030/livesports/channel136hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", KTN
+https://nayatvfe1.nayatel.com:3030/livesports/channel137hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", 138
+https://nayatvfe1.nayatel.com:3030/livesports/channel138sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TRT TURK
+https://nayatvfe1.nayatel.com:3030/livesports/channel139hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ABN NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel140hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", JIM JAM POLSAT
+https://nayatvfe1.nayatel.com:3030/livesports/channel143hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MINIMAX
+https://nayatvfe1.nayatel.com:3030/livesports/channel144hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SPECIAL
+https://nayatvfe1.nayatel.com:3030/livesports/channel145hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", QURAN TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel146hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HOORA TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel147sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SAUDI ONE
+https://nayatvfe1.nayatel.com:3030/livesports/channel148hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", GREEN HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel150hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TEN SPORTS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel151hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ALJAZEERA
+https://nayatvfe1.nayatel.com:3030/livesports/channel154sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BLOOMBERG 
+https://nayatvfe1.nayatel.com:3030/livesports/channel155hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MBC ACTION
+https://nayatvfe1.nayatel.com:3030/livesports/channel163hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", MBC MAX
+https://nayatvfe1.nayatel.com:3030/livesports/channel164hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", TIME NEWS HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel175sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CHANNEL 5 HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel176sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", M NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel177sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ROHI NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel178sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", AGN NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel179sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", METRO NEWS 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel181sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", PAKISTAN 1
+https://nayatvfe1.nayatel.com:3030/livesports/channel182sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", KASHISH TV
+https://nayatvfe1.nayatel.com:3030/livesports/channel183sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WISH NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel185sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ASIA ONE
+https://nayatvfe1.nayatel.com:3030/livesports/channel186hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ONN
+https://nayatvfe1.nayatel.com:3030/livesports/channel187hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", SET ENTERTAINMENT HD
+https://nayatvfe1.nayatel.com:3030/livesports/channel188hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", C41 NEWS
+https://nayatvfe1.nayatel.com:3030/livesports/channel198sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", FUN PLANET
+https://nayatvfe1.nayatel.com:3030/livesports/channel199sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", ALJAZEERA ARABIC
+https://nayatvfe1.nayatel.com:3030/livesports/channel200hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", BBC FIRST
+https://nayatvfe1.nayatel.com:3030/livesports/channel226hd.stream/playlist.m3u8
